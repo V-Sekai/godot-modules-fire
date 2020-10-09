@@ -1,18 +1,18 @@
 [submodule "scene_merge"]
 	path = scene_merge
-	url = https://github.com/godot-extended-libraries/scene_merge.git
+	url = https://github.com/V-Sekai/godot-scene_merge-module.git
 [submodule "mesh_lod"]
 	path = mesh_lod
-	url = https://github.com/godot-extended-libraries/mesh_lod.git
+	url = https://github.com/V-Sekai/godot-mesh_lod-module.git
 [submodule "gltf"]
 	path = gltf
-	url = https://github.com/godot-extended-libraries/gltf.git
+	url = https://github.com/V-Sekai/godot-gltf-module.git
 [submodule "sqlite"]
 	path = sqlite
-	url = https://github.com/godot-extended-libraries/godot-sqlite.git
+	url = https://github.com/V-Sekai/godot-sqlite-module.git
 [submodule "lottie"]
 	path = lottie
-	url = https://github.com/godot-extended-libraries/lottie.git
+	url = https://github.com/V-Sekai/godot-lottie-module.git
 [submodule "json"]
 	path = json
-	url = https://github.com/godot-extended-libraries/json.git
+	url = https://github.com/V-Sekai/godot-json-module.git
