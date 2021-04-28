@@ -1,8 +1,8 @@
 # modules
 
 ```
-git clone https://github.com/godot-extended-libraries/godot-modules-fire.git --recurse-submodules
-git clone https://github.com/godot-extended-libraries/godot-fire.git -b extended-fire godot-fire
-cd godot-fire
-scons p=windows custom_modules=../godot-modules-fire -j6
+git clone https://github.com/V-Sekai/godot-modules-groups.git --recurse-submodules
+git clone https://github.com/V-Sekai/godot -b extended-fire godot-v-sekai
+cd godot-v-sekai
+scons p=windows custom_modules=../godot-modules-groups -j6
 ```
