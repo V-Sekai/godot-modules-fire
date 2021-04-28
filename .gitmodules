@@ -19,3 +19,6 @@
 [submodule "renik"]
 	path = renik
 	url = https://github.com/V-Sekai/renik
+[submodule "lasso"]
+	path = lasso
+	url = https://github.com/V-sekai/lasso
