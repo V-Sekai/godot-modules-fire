@@ -1,9 +1,6 @@
 [submodule "scene_merge"]
 	path = scene_merge
 	url = https://github.com/V-Sekai/godot-scene_merge-module.git
-[submodule "mesh_lod"]
-	path = mesh_lod
-	url = https://github.com/V-Sekai/godot-mesh_lod-module.git
 [submodule "sqlite"]
 	path = sqlite
 	url = https://github.com/V-Sekai/godot-sqlite-module.git
