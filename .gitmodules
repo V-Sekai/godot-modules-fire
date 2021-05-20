@@ -1,6 +1,3 @@
-[submodule "scene_merge"]
-	path = scene_merge
-	url = https://github.com/V-Sekai/godot-scene_merge-module.git
 [submodule "sqlite"]
 	path = sqlite
 	url = https://github.com/V-Sekai/godot-sqlite-module.git
