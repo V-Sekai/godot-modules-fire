@@ -10,9 +10,6 @@
 [submodule "lottie"]
 	path = lottie
 	url = https://github.com/V-Sekai/godot-lottie-module.git
-[submodule "json"]
-	path = json
-	url = https://github.com/V-Sekai/godot-json-module.git
 [submodule "renik"]
 	path = renik
 	url = https://github.com/V-Sekai/renik
