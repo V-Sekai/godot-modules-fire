@@ -10,6 +10,3 @@
 [submodule "lasso"]
 	path = lasso
 	url = https://github.com/V-sekai/lasso
-[submodule "ewbik"]
-	path = ewbik
-	url = https://github.com/godot-extended-libraries/ewbik.git
