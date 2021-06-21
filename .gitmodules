@@ -13,6 +13,3 @@
 [submodule "ewbik"]
 	path = ewbik
 	url = https://github.com/godot-extended-libraries/ewbik.git
-[submodule "skeleton_modifications"]
-	path = skeleton_modifications
-	url = https://github.com/fire/skeleton_modifications.git
